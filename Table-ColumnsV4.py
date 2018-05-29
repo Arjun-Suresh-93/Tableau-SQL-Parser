@@ -213,5 +213,4 @@ for stmt in selectstmts:
 # In[134]:
 
 
-curTableColumns
 
